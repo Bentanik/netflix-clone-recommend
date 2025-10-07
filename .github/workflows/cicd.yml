@@ -1,4 +1,4 @@
-name: CICD_Netflix_Clone_recommend
+name: CICD_Netflix_Clone_Recommend
 
 on:
   workflow_dispatch:
